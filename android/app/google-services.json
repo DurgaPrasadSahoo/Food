@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857819573170",
+    "firebase_url": "https://foodfindo-4e450.firebaseio.com",
+    "project_id": "foodfindo-4e450",
+    "storage_bucket": "foodfindo-4e450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857819573170:android:ad1cd79aa21001e83252ab",
+        "android_client_info": {
+          "package_name": "android.permission.INTERNET"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857819573170-kgkk13455k9akm8bpo124nbvhks0863b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQbUenOTYAEMYmWC4PS5CUH7vNkUtiHp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857819573170-kgkk13455k9akm8bpo124nbvhks0863b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "FoodFindo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/toolbar-android": "0.1.0-rc.2",
+    "axios": "^0.20.0",
+    "firebase": "^7.19.1",
+    "formik": "^1.5.8",
+    "native-base": "^2.13.5",
+    "react": "16.13.1",
+    "react-native": "0.63.2",
+    "react-native-drawer": "^2.5.1",
+    "react-native-elements": "^1.2.7",
+    "react-native-formik": "^1.7.7",
+    "react-native-gesture-handler": "^1.4.1",
+    "react-native-linear-gradient": "^2.5.4",
+    "react-native-material-textfield": "^0.16.1",
+    "react-native-modal": "^11.5.6",
+    "react-native-paper": "^2.11.1",
+    "react-native-responsive-screen": "^1.4.1",
+    "react-native-screens": "^2.9.0",
+    "react-native-search-bar": "^3.5.1",
+    "react-native-snap-carousel": "^3.7.5",
+    "react-native-svg": "^9.13.3",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^3.12.1",
+    "recompose": "^0.30.0",
+    "yup": "^0.27.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.11.0",
+    "@babel/runtime": "7.11.0",
+    "@react-native-community/eslint-config": "1.1.0",
+    "babel-jest": "25.5.1",
+    "eslint": "6.8.0",
+    "jest": "25.5.4",
+    "metro-react-native-babel-preset": "0.59.0",
+    "react-test-renderer": "16.13.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
